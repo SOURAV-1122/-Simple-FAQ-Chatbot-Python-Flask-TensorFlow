@@ -1,0 +1,13 @@
+ BUILDING CHATBOT:13
+1.CONFIGER CHATBOT IN Dialogflow---> in chat(new order,2 pav bhaji,one pizza,well remove pizza,that's it
+
+feature:1.new order
+        2.track order
+
+2.python (fastAPI WEB SERVING FRAME WORK)BACKEND SERVER
+     ^
+     !
+
+3.  MySQL(PLACING ORDER,RETRERING ORDER)
+THEN WE WILL INTEGRATE OUR CHATBOT TO OUR FOOD WEBSITE
+
